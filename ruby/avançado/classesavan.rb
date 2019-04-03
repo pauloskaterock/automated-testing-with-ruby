@@ -9,4 +9,3 @@ c = Conta.new
 c.deposita (100.00 )
 
 
-# parei = avançando com ruby... estou na aula construtores.
